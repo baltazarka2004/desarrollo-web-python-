@@ -1,0 +1,25 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Edu+SA+Beginner&display=swap');
+
+
+.text-cust{
+    font-family: 'Edu SA Beginner', cursive;
+    font-size: 98px;
+    text-align: center;
+    
+}
+
+
+
+.cont-cust{
+  background-color: aquamarine;
+  border-radius: 10px;
+}
+
+
+
+
+.nav-cust{
+    background-color: black;
+    border-radius: 10px;
+}

@@ -1,0 +1,62 @@
+body {
+    text-align: center; /* Centra todo el contenido del body horizontalmente */
+    background-color: rgba(255, 177, 158, 0.766);
+
+}
+
+.titulo-container {
+    display: inline-block;
+    background-color:  rgba(251, 149, 212, 0.766);
+    ; /* Cambia el color de fondo según tus preferencias */
+    padding-left: 100px;
+    padding-right: 100px; /* Añade un espacio de relleno alrededor del texto */
+    border-radius: 15px 15px 15px 15px;
+}
+
+h1 {
+    margin: 0; /* Elimina el margen predeterminado del h1 */
+}
+
+
+nav 
+{
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+nav ul
+{
+    list-style-type: none;
+    display: inline;
+}
+ li {
+    display: inline-block;
+    background-color: burlywood;
+    margin-left: 20px ;
+    word-spacing: 10px;
+    padding-top: 5px;
+    padding-bottom:5px;
+    padding-left: 2%;
+    padding-right: 2%;
+    border-radius: 15px;
+    width:15%;
+}
+nav ul li a {
+    text-decoration: none;
+    color: black
+}
+
+
+ li :hover {
+    
+    background-color: aliceblue; /* Cambia el color de fondo en hover */
+    border-radius: 15px;
+    width:15%;
+    padding-top: 5px;
+    padding-bottom:5px;
+    padding-left: 25%;
+    padding-right: 25%;
+
+}
+

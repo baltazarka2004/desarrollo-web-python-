@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+SA+Beginner&display=swap');
+
+
+.nav-cust{
+    background-color: rgba(157, 79, 148, 0.571);
+    border-radius: 10px;
+}
+
+
+
+.text-cust{
+    font-family: 'Edu SA Beginner', cursive;
+    text-align: center;
+    font-size: 60px;
+    background-color: rgba(157, 79, 148, 0.571);
+    border-radius: 20px;
+    padding-bottom: 10px;
+    text-decoration:underline ;
+    
+}
+
+
+.colum-divider{
+    border-left: 4px solid black;
+    height: 100%;
+    
+}
+
+
+body{
+    background-color: rgb(232, 187, 227);
+}
+
+
+
+    
